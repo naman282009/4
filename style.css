@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 100px;
+  border: 3px solid black;
+}
+mentalAbility{
+  border-radius: 50px;
+  background-color: green;
+  background: indigo;
+}
